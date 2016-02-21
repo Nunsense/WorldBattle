@@ -1,0 +1,32 @@
+{
+  "name": "world-battle-beta",
+  "version": "0.0.1",
+  "description": "A game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "ejs": "2.3.3",
+    "express": "4.13.3",
+    "hogan-express": "0.5.2",
+    "method-override": "2.3.5",
+    "mongoose": "4.4.4",
+    "paint-console": "0.0.1"
+  },
+  "engines": {
+    "node": "4.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nunsense/WorldBattle"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nunsense/WorldBattle/issues"
+  },
+  "homepage": "https://github.com/Nunsense/WorldBattle",
+  "devDependencies": {},
+  "author": ""
+}
